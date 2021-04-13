@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  DemoFidelity
 //
-//  Created by Sebastian Koo on 4/12/21.
+//  Created by Ben Koo on 4/12/21.
 //
 
 import UIKit
